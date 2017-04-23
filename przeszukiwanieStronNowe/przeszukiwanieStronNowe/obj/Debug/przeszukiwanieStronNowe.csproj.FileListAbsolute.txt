@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\przeszukiwanieStronNowe.exe.config
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\obj\Debug\przeszukiwanieStronNowe.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\App_Data\Baza.mdf
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\App_Data\Baza_log.ldf
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\przeszukiwanieStronNowe.exe
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\przeszukiwanieStronNowe.pdb
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\obj\Debug\przeszukiwanieStronNowe.exe
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\obj\Debug\przeszukiwanieStronNowe.pdb
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\HtmlAgilityPack.dll
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\HtmlAgilityPack.pdb
+c:\users\user\documents\visual studio 2013\Projects\przeszukiwanieStronNowe\przeszukiwanieStronNowe\bin\Debug\HtmlAgilityPack.xml
